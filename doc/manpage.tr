@@ -1,0 +1,26 @@
+    $$comment syntax:   P  N       T      V        T
+    $$comment e.g: .TH MAN 1 2019-01-05 2.8.5 手册分页显示工具
+    
+    $$title mampage-tr 1 "$$date" 0.0.1 "ManPage 生成工具"
+    $$subtitle NAME
+        manpage-tr - manpage 生成、定制转换工具
+
+    $$subtitle tr 组件系列
+        manpage-tr 是该系列的始祖，通过该系列有以下各种工具
+
+        $$subcontent manpage-tr 
+            $$cbegin
+                manpage 生成、定制转换工具
+            $$cend
+        $$subcontent markdown-tr 
+            $$cbegin
+                markdown 生成、定制转换工具
+            $$cend
+        $$subcontent html-tr
+            $$cbegin
+                html 生成、定制转换工具
+            $$cend
+        $$subcontent javadoc-tr 
+            $$cbegin
+                javadoc 生成、定制转换工具
+            $$cend
